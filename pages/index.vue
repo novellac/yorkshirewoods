@@ -1,0 +1,92 @@
+<template>
+  <div>
+    <main class="p-6">
+      <article>
+        <h2>Upcoming Events</h2>
+        <ul class="flex flex-wrap justify-center gap-6 mt-6 mb-12">
+          <li class="p-6 border starburst">
+            <div class="p-4 text-white bg-blue-900">
+              <h3>🌟 Event: Movie night!</h3>
+              <p>Saturday, August 27, 2022</p>
+              <p>5-10pm</p>
+              <p>9745 Kensington Ave.</p>
+            </div>
+          </li>
+          <li class="border-green-500 border-[1rem]">
+            <div class="h-full p-4 bg-green-100">
+              <h3>📢 Monthly community meeting</h3>
+              <p>Every 2nd Thursday</p>
+              <p>6pm-7pm</p>
+              <p>11435 Morang Ave.</p>
+            </div>
+          </li>
+        </ul>
+      </article>
+      <article>
+        <h2>Do you live in Yorkshire Woods?</h2>
+        <p>
+          The boundaries of Yorkshire Woods are
+          <span class="bold">Kelly Road</span> on the north,
+          <span class="bold">Morang Drive</span> on the east,
+          <span class="bold">I-94 Service Drive</span> on the south, and
+          <span class="bold">Whittier Street</span> on the west.
+        </p>
+
+        <h2 class="mt-6">Our mission</h2>
+        <p>
+          To encourage, promote and aid in developing, improving and maintaining
+          the area of Yorkshire Woods as a desirable residential community. We
+          strive to unify the community spirit, and promote the health, safety
+          and welfare of our residents. We encourage recreation and service
+          programs that enhance our residents' social life and community
+          welfare. We constantly promote a better understanding and fellowship
+          among our residents and business owners.
+        </p>
+
+        <h2 class="mt-6">Our history</h2>
+        <p>
+          YWCO was originally formed in the 1970s as Neighbors United. Detroit
+          officially recognizes the area which borders kelly Road, Whittier,
+          I-94, and Morang as Yorkshire Woods. The area was originally woodlands
+          and parks. The first residential home in the community was built in
+          the early 1920s, still exists, and is occupied by the original family.
+        </p>
+
+        <h2 class="mt-6">We're all about...</h2>
+
+        <h3 class="mt-4">Reclaiming</h3>
+        <p>
+          Together we're reclaiming our neighborhood one block at a time - both
+          the residential and the business districts.
+        </p>
+
+        <h3 class="mt-4">Being strong and viable</h3>
+        <p>
+          We remain strong and viable in our neighborhood through establishing a
+          sense of community, living together productively, and sharing our
+          common interest in proactively rebuilding Detroit.
+        </p>
+
+        <h3 class="mt-4">Involving and inspiring</h3>
+        <p>
+          We involve and inspire our youth and pave the way for their present
+          and future in Yorkshire Woods.
+        </p>
+
+        <h3 class="mt-4">Cherishing</h3>
+        <p>
+          We cherish our senior citizens and look out for their welfare so that
+          they can live peacefully in their homes.
+        </p>
+
+        <h3 class="mt-4">Listening</h3>
+        <p>
+          We listen to the needs and desires of our residents and businesses and
+          make things happen.
+        </p>
+
+        <h2 class="mt-6 text-2xl">...We're all about you!</h2>
+      </article>
+    </main>
+  </div>
+</template>
