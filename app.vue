@@ -16,3 +16,20 @@
     <p>© 2022 Yorkshire Woods Community Organization</p>
   </footer>
 </template>
+
+<script setup>
+useHead({
+  title: 'Yorkshire Woods Community Organization',
+  // or, instead:
+  // titleTemplate: (title) => `My App - ${title}`,
+  meta: [
+    {
+      name: 'description',
+      content: 'Yorkshire Woods neighborhood, Detroit, Michigan.',
+    },
+  ],
+  script: [
+    { src: 'https://identity.netlify.com/v1/netlify-identity-widget.js' },
+  ],
+})
+</script>

@@ -1,0 +1,24 @@
+backend:
+  name: git-gateway
+  branch: main
+
+publish_mode: editorial_workflow
+
+media_folder: "public/images/uploads"
+public_folder: "/images/uploads"
+
+collections:
+  - name: 'events'
+    label: 'Events'
+    folder: 'content/events'
+    format: 'frontmatter'
+    create: true
+    slug: 'event-{{year}}-{{month}}-{{slug}}'
+    editor:
+      preview: false
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Event Begin', name: 'eventbegin', widget: 'datetime' }
+      - { label: 'Event End', name: 'eventend', widget: 'datetime' }
+      - { label: 'Location', name: 'location', widget: 'string' }
+      - { label: 'Description', name: 'description', widget: 'string' }
