@@ -5,6 +5,7 @@ export default defineNuxtConfig({
   modules: [
     '@nuxtjs/tailwindcss',
     '@nuxtjs/google-fonts',
+    '@nuxt/content'
   ],
   tailwindcss: {
     cssPath: '~/assets/css/tailwind.scss'
