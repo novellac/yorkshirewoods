@@ -4,14 +4,6 @@
       <article>
         <h2>Upcoming Events</h2>
         <ul class="flex flex-wrap justify-center gap-6 mt-6 mb-12">
-          <li class="p-6 border starburst">
-            <div class="p-4 text-white bg-blue-900">
-              <h3>🌟 Event: Movie night!</h3>
-              <p>Saturday, August 27, 2022</p>
-              <p>5-10pm</p>
-              <p>9745 Kensington Ave.</p>
-            </div>
-          </li>
           <li class="border-green-500 border-[1rem]">
             <div class="h-full p-4 bg-green-100">
               <h3>📢 Monthly community meeting</h3>
