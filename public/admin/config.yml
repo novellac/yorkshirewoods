@@ -22,4 +22,4 @@ collections:
       - { label: 'Event End', name: 'eventend', widget: 'datetime' }
       - { label: 'Location', name: 'location', widget: 'string' }
       - { label: 'Description', name: 'description', widget: 'string' }
-      - {label: "Images", name: "thumbnail", widget: "image", required: false}
+      - {label: "Images", name: "eventimages", widget: "image", required: false, media_library: { config: { multiple: true } } }
