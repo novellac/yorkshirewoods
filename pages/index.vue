@@ -1,19 +1,31 @@
 <template>
   <div>
     <main class="p-6">
-      <article>
+      <section>
         <h2>Upcoming Events</h2>
-        <ul class="flex flex-wrap justify-center gap-6 mt-6 mb-12">
-          <li class="border-green-500 border-[1rem]">
-            <div class="h-full p-4 bg-green-100">
+        <CardList>
+          <OneCard>
+            <div class="h-full p-4">
               <h3>📢 Monthly community meeting</h3>
               <p>Every 2nd Thursday</p>
               <p>6pm-7pm</p>
               <p>11435 Morang Ave.</p>
             </div>
-          </li>
-        </ul>
-      </article>
+          </OneCard>
+        </CardList>
+
+        <h2>Past Events</h2>
+        <CardList>
+          <OneCard theme="silver">
+            <div class="h-full p-4">
+              <h3>🍃 October Community Clean-up Day</h3>
+              <p>October 21</p>
+              <p>Yorkshire Woods Community Garden, Kensington Ave.</p>
+            </div>
+          </OneCard>
+        </CardList>
+      </section>
+
       <article>
         <h2>Do you live in Yorkshire Woods?</h2>
         <p>
