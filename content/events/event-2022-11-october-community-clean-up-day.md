@@ -14,4 +14,7 @@ galleryImages:
   - src: /images/uploads/whatsapp-image-2022-11-08-at-6.05.27-pm.jpeg
     alt: A group of maybe 20 people, mostly white, pose against a light blue fence
       with yellow calligraphy reading "Ellsworth's bee adventure."
+  - src: /images/uploads/whatsapp-image-2022-11-08-at-6.05.28-pm-1-.jpeg
+    alt: A large pile of tree cuttings, bagged leaves, and branches lie next to a
+      dark paved road, ready for pick up.
 ---
