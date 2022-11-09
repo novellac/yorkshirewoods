@@ -22,11 +22,9 @@ collections:
       - { label: 'Event End', name: 'eventend', widget: 'datetime' }
       - { label: 'Location', name: 'location', widget: 'string' }
       - { label: 'Description', name: 'description', widget: 'string' }
-      - label: "Images"
-        name: "eventimages"
-        widget: "image"
-        choose_url: true
-        allow_multiple: true
-        media_library:
-          config:
-            multiple: true
+      - label: "Gallery"
+          name: "galleryImages"
+          widget: "list"
+          field:
+            - {label: 'Image', name: 'image', widget: 'image' }
+            - {label: 'Alt text', name: 'alt', widget: 'string' }
