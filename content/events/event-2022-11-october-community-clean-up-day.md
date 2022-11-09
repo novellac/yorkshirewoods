@@ -6,4 +6,12 @@ location: Yorkshire Woods Community Garden
 description: We had a great time cleaning up the Yorkshire Wood Community
   Garden! Together we removed lots of brush and garden debris.
 eventimages: /images/uploads/whatsapp-image-2022-11-08-at-6.03.19-pm.jpeg
+galleryImages:
+  - src: /images/uploads/whatsapp-image-2022-11-08-at-6.03.19-pm.jpeg
+    alt: People scattered about a field in the early autumn sunshine, near a wooden
+      fence painted a playful blue. On the fence, yellow calligraphy reads,
+      "Elsworth."
+  - src: /images/uploads/whatsapp-image-2022-11-08-at-6.05.27-pm.jpeg
+    alt: A group of maybe 20 people, mostly white, pose against a light blue fence
+      with yellow calligraphy reading "Ellsworth's bee adventure."
 ---
