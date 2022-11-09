@@ -25,7 +25,6 @@ collections:
       - label: "Images"
         name: "eventimages"
         widget: "image"
-        required: false,
         choose_url: true
         media_library:
           config:
