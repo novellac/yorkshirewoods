@@ -26,6 +26,7 @@ collections:
         name: "eventimages"
         widget: "image"
         choose_url: true
+        allow_multiple: true
         media_library:
           config:
             multiple: true
