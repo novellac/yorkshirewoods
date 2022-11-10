@@ -19,7 +19,12 @@
         <CardList>
           <OneCard theme="silver">
             <div class="h-full p-4">
-              <h3>🍃 October Community Clean-up Day</h3>
+              <NuxtLink
+                to="/events/event-2022-11-october-community-clean-up-day"
+                class="underline"
+              >
+                <h3>🍃 October Community Clean-up Day</h3>
+              </NuxtLink>
               <p>October 21</p>
               <p>Yorkshire Woods Community Garden, Kensington Ave.</p>
             </div>
