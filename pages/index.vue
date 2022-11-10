@@ -1,6 +1,7 @@
 <template>
   <div>
     <main class="p-6">
+      <h1 class="mb-8 text-center">Welcome to the neighborhood!</h1>
       <section>
         <h2>Upcoming Events</h2>
         <CardList>

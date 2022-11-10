@@ -1,14 +1,17 @@
 <template>
-  <h1 class="pb-4 m-4 border-b border-b-grey-300">
-    <span class="flex items-end justify-center">
-      <span>Yorkshire</span>
-      <span>
-        <img class="inline h-12 mb-3" src="~/assets/images/logo.png" alt="" />
+  <header class="pb-4 m-4 mb-8 border-b border-b-grey-300">
+    <NuxtLink to="/" class="text-2xl font-thin">
+      <span class="flex items-end justify-center">
+        <span>Yorkshire</span>
+        <span>
+          <img class="inline h-12 mb-3" src="~/assets/images/logo.png" alt="" />
+        </span>
+        <span>Woods</span>
       </span>
-      <span>Woods</span>
-    </span>
-    <span class="block text-center">Community Organization</span>
-  </h1>
+      <span class="block text-center">Community Organization</span>
+    </NuxtLink>
+  </header>
+
   <div class="max-w-screen-lg mx-auto">
     <NuxtPage />
   </div>
