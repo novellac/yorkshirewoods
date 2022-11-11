@@ -9,6 +9,9 @@ const props = defineProps({
   theme: {
     type: String,
     default: 'green',
+    validator(t) {
+      return ['green', 'silver'].includes(t)
+    },
   },
 })
 </script>

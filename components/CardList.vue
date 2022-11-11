@@ -1,5 +1,5 @@
 <template>
-  <ul class="flex flex-wrap justify-start gap-6 mt-6 mb-12">
+  <ul class="flex flex-wrap justify-start w-full gap-4 mt-6">
     <slot />
   </ul>
 </template>
