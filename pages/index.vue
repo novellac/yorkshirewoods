@@ -3,36 +3,21 @@
     <main class="p-6">
       <h1 class="mb-8 text-center">Welcome to the neighborhood!</h1>
       <section>
-        <h2>Upcoming Events</h2>
-        <CardList>
-          <OneCard>
-            <div class="h-full p-4">
-              <h3>📢 Monthly community meeting</h3>
-              <p>Every 2nd Thursday</p>
-              <p>6pm-7pm</p>
-              <p>11435 Morang Ave.</p>
-            </div>
-          </OneCard>
-        </CardList>
+        <EventsList
+          title="Future Events"
+          eventTimeframe="future"
+          theme="green"
+        />
 
-        <h2>Past Events</h2>
-        <CardList>
-          <OneCard theme="silver">
-            <div class="h-full p-4">
-              <NuxtLink
-                to="/events/event-2022-11-october-community-clean-up-day"
-                class="underline"
-              >
-                <h3>🍃 October Community Clean-up Day</h3>
-              </NuxtLink>
-              <p>October 21</p>
-              <p>Yorkshire Woods Community Garden, Kensington Ave.</p>
-            </div>
-          </OneCard>
-        </CardList>
+        <EventsList
+          class="mt-12"
+          title="Past Events"
+          eventTimeframe="past"
+          theme="silver"
+        />
       </section>
 
-      <article>
+      <article class="mt-12">
         <h2>Do you live in Yorkshire Woods?</h2>
         <p>
           The boundaries of Yorkshire Woods are
