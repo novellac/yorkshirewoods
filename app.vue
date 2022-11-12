@@ -1,6 +1,6 @@
 <template>
   <header class="my-8">
-    <div class="pb-4">
+    <div class="pb-6">
       <NuxtLink to="/" class="text-2xl font-thin">
         <span class="flex items-end justify-center">
           <span>Yorkshire</span>
