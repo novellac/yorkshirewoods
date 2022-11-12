@@ -1,7 +1,7 @@
 <template>
   <div>
     <h2>{{ title }}</h2>
-    <CardList>
+    <CardList v-if="filteredEvents.length">
       <OneCard
         v-for="article in filteredEvents"
         :key="article._path"
@@ -19,6 +19,7 @@
         </div>
       </OneCard>
     </CardList>
+    <h3 v-else>Nothing yet ... stay tuned!</h3>
   </div>
 </template>
 
