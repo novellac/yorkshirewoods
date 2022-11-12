@@ -39,7 +39,7 @@
       <h2 class="mt-6">Our history</h2>
       <p>
         YWCO was originally formed in the 1970s as Neighbors United. Detroit
-        officially recognizes the area which borders kelly Road, Whittier, I-94,
+        officially recognizes the area which borders Kelly Road, Whittier, I-94,
         and Morang as Yorkshire Woods. The area was originally woodlands and
         parks. The first residential home in the community was built in the
         early 1920s, still exists, and is occupied by the original family.
