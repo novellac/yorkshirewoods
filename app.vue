@@ -1,15 +1,31 @@
 <template>
-  <header class="pb-4 m-4 mb-8 border-b border-b-grey-300">
-    <NuxtLink to="/" class="text-2xl font-thin">
-      <span class="flex items-end justify-center">
-        <span>Yorkshire</span>
-        <span>
-          <img class="inline h-12 mb-3" src="~/assets/images/logo.png" alt="" />
+  <header class="my-8">
+    <div class="pb-4">
+      <NuxtLink to="/" class="text-2xl font-thin">
+        <span class="flex items-end justify-center">
+          <span>Yorkshire</span>
+          <span>
+            <img
+              class="inline h-12 mb-3"
+              src="~/assets/images/logo.png"
+              alt=""
+            />
+          </span>
+          <span>Woods</span>
         </span>
-        <span>Woods</span>
-      </span>
-      <span class="block text-center">Community Organization</span>
-    </NuxtLink>
+        <span class="block text-center">Community Organization</span>
+      </NuxtLink>
+    </div>
+    <nav class="flex justify-center px-2 text-white bg-green-800 border">
+      <ul class="flex gap-8 my-2">
+        <li>
+          <NuxtLink to="/" ariaCurrentValue="page">Home</NuxtLink>
+        </li>
+        <li>
+          <NuxtLink to="/events" ariaCurrentValue="page">All events</NuxtLink>
+        </li>
+      </ul>
+    </nav>
   </header>
 
   <div class="max-w-screen-lg mx-auto">
@@ -36,3 +52,9 @@ useHead({
   ],
 })
 </script>
+
+<style scoped>
+nav li {
+  @apply hover:underline;
+}
+</style>
