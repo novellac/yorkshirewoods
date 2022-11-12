@@ -39,7 +39,7 @@ const formattedStartEnd = (rawEventBegin, rawEventEnd) => {
 
 <template>
   <main>
-    <EventsList title="Future Events" eventTimeframe="future" />
+    <EventsList title="Upcoming Events" eventTimeframe="future" />
     <EventsList
       title="Past Events"
       eventTimeframe="past"
