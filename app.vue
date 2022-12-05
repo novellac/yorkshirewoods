@@ -24,6 +24,9 @@
         <li>
           <NuxtLink to="/events" ariaCurrentValue="page">All events</NuxtLink>
         </li>
+        <li>
+          <NuxtLink to="/contact" ariaCurrentValue="page">Contact us</NuxtLink>
+        </li>
       </ul>
     </nav>
   </header>
