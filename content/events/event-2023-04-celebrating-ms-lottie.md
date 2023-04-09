@@ -17,8 +17,8 @@ galleryImages:
       representative presents proclamation to Ms. Lottie. Nearby, attendees take
       pictures.
   - src: /images/uploads/img_5985001_20230409_115206.jpg
-    alt: Ms. Lottie smiles as she is presented with a birthday cake. Nearby, an
-      attendee waits with a bouquet of flowers.
+    alt: Ms. Lottie smiles as she is presented with a birthday cake. Nearby, Rep.
+      Veronica Paiz waits with a bouquet of flowers.
   - src: /images/uploads/img_5978001_20230409_115206.jpg
     alt: Ms. Lottie poses with a friend on the front walk of her home. She smiles,
       holding a bouquet of flowers.
