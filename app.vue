@@ -1,7 +1,7 @@
 <template>
   <header class="my-8">
     <div class="pb-6">
-      <NuxtLink to="/" class="text-2xl font-thin">
+      <NuxtLink to="/" class="text-2xl font-thin no-underline">
         <span class="flex items-end justify-center">
           <span>Yorkshire</span>
           <span>
@@ -19,13 +19,13 @@
     <nav class="flex justify-center px-2 text-white bg-green-800 border">
       <ul class="flex gap-8 my-2">
         <li>
-          <NuxtLink to="/" ariaCurrentValue="page">Home</NuxtLink>
+          <NuxtLink class="no-underline" to="/" ariaCurrentValue="page">Home</NuxtLink>
         </li>
         <li>
-          <NuxtLink to="/events" ariaCurrentValue="page">All events</NuxtLink>
+          <NuxtLink class="no-underline" to="/events" ariaCurrentValue="page">All events</NuxtLink>
         </li>
         <li>
-          <NuxtLink to="/contact" ariaCurrentValue="page">Contact us</NuxtLink>
+          <NuxtLink class="no-underline" to="/contact" ariaCurrentValue="page">Contact us</NuxtLink>
         </li>
       </ul>
     </nav>

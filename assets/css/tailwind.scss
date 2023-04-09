@@ -21,6 +21,10 @@
   p {
     @apply font-serif;
   }
+
+  a {
+    @apply underline;
+  }
 }
 
 @layer components {
