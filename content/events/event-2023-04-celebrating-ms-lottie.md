@@ -25,4 +25,7 @@ galleryImages:
   - src: /images/uploads/img_5974001_20230409_115206.jpg
     alt: In front of a house decorated with a bunch of purple balloons, Rep. Paiz
       shakes hands with Ms. Lottie and presents her a bouquet of flowers.
+  - src: /images/uploads/img_5972001_20230409_115206.jpg
+    alt: In front of a house decorated with a bunch of purple balloons, Ms. Lottie
+      poses with Yorkshire Woods Community Organization president Mose Primus.
 ---
