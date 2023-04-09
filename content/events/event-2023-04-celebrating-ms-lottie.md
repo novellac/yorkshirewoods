@@ -1,5 +1,5 @@
 ---
-title: Celebrating Ms. Lottie
+title: Celebrating Ms. Lottie - 101 years young!
 eventbegin: 2023-04-04T20:00:57.809Z
 eventend: 2023-04-04T22:00:57.820Z
 location: Yorkshire Woods Neighborhood!
@@ -11,4 +11,9 @@ description: "Together we come together to celebrate Ms. Lottie, who is turning
   Engine 58 (Whittier station) from the fire department, N.P.O Michell and her
   partners from the Police Department's 9th Precinct. From Councilwoman
   Johnson's office, Cynthia McClure presented a Proclamation."
+galleryImages:
+  - src: /images/uploads/img_5987001_20230409_115206.jpg
+    alt: On the walk leading to her house, Councilwoman Johnson's office
+      representative presents proclamation to Ms. Lottie. Nearby, attendees take
+      pictures.
 ---
