@@ -28,4 +28,7 @@ galleryImages:
   - src: /images/uploads/img_5972001_20230409_115206.jpg
     alt: In front of a house decorated with a bunch of purple balloons, Ms. Lottie
       poses with Yorkshire Woods Community Organization president Mose Primus.
+  - src: /images/uploads/img_5969001_20230409_115206.jpg
+    alt: From the front porch of a brick house decorated with a bunch of purple
+      balloons, Ms. Lottie waves to the camera.
 ---
