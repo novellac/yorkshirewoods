@@ -16,4 +16,7 @@ galleryImages:
     alt: On the walk leading to her house, Councilwoman Johnson's office
       representative presents proclamation to Ms. Lottie. Nearby, attendees take
       pictures.
+  - src: /images/uploads/img_5985001_20230409_115206.jpg
+    alt: Ms. Lottie smiles as she is presented with a birthday cake. Nearby, an
+      attendee waits with a bouquet of flowers.
 ---
