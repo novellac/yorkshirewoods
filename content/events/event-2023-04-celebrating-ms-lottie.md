@@ -22,4 +22,7 @@ galleryImages:
   - src: /images/uploads/img_5978001_20230409_115206.jpg
     alt: Ms. Lottie poses with a friend on the front walk of her home. She smiles,
       holding a bouquet of flowers.
+  - src: /images/uploads/img_5974001_20230409_115206.jpg
+    alt: In front of a house decorated with a bunch of purple balloons, Rep. Paiz
+      shakes hands with Ms. Lottie and presents her a bouquet of flowers.
 ---
