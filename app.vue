@@ -19,13 +19,19 @@
     <nav class="flex justify-center px-2 text-white bg-green-800 border">
       <ul class="flex gap-8 my-2">
         <li>
-          <NuxtLink class="no-underline" to="/" ariaCurrentValue="page">Home</NuxtLink>
+          <NuxtLink class="no-underline" to="/" ariaCurrentValue="page"
+            >Home</NuxtLink
+          >
         </li>
         <li>
-          <NuxtLink class="no-underline" to="/events" ariaCurrentValue="page">All events</NuxtLink>
+          <NuxtLink class="no-underline" to="/events" ariaCurrentValue="page"
+            >All events</NuxtLink
+          >
         </li>
         <li>
-          <NuxtLink class="no-underline" to="/contact" ariaCurrentValue="page">Contact us</NuxtLink>
+          <NuxtLink class="no-underline" to="/contact" ariaCurrentValue="page"
+            >Contact us</NuxtLink
+          >
         </li>
       </ul>
     </nav>
@@ -35,7 +41,16 @@
     <NuxtPage />
   </div>
   <footer class="p-4 mt-12 border-t border-t-gray-300">
-    <p>© 2022 Yorkshire Woods Community Organization</p>
+    <p>© 2023 Yorkshire Woods Community Organization</p>
+    <p>
+      Yorkshire Woods Community Organization is a 501(c)(3) nonprofit in the
+      city of Detroit, Michigan.
+      <a
+        href="https://www.zeffy.com/en-US/fundraising/296cf943-b89e-4ff8-859b-952cc4ddf186"
+      >
+        Donate today!
+      </a>
+    </p>
   </footer>
 </template>
 
