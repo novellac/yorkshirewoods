@@ -29,6 +29,11 @@
           >
         </li>
         <li>
+          <NuxtLink class="no-underline" to="/resources" ariaCurrentValue="page"
+            >Resources</NuxtLink
+          >
+        </li>
+        <li>
           <NuxtLink class="no-underline" to="/contact" ariaCurrentValue="page"
             >Contact us</NuxtLink
           >
