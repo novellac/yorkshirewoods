@@ -62,7 +62,7 @@ useHead({
   meta: [
     {
       name: 'description',
-      content: 'Yorkshire Woods neighborhood, Detroit, Michigan.',
+      content: 'Welcome to the neighborhood! Find events and information for the Yorkshire Woods Community Organization, Detroit, Michigan.',
     },
   ],
   script: [
