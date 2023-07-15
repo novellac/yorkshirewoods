@@ -1,7 +1,7 @@
 <template>
   <article class="px-6">
     <div class="mb-8">
-      <h1 class="mb-4">Contact Yorkshire Woods Community Organization</h1>
+      <h1>Contact Yorkshire Woods Community Organization</h1>
       <p>
         Welcome! We'd love for you to get in touch with us to join the
         organization, ask questions about the history or future of our
