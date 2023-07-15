@@ -1,18 +1,27 @@
 <template>
-  <main>
+  <div>
     <h1 class="px-6 mb-8 text-center">Welcome to the neighborhood!</h1>
-  
-    <article class="flex flex-col gap-6 p-4 bg-purple-300 border-4 border-purple-700 md:flex-row rounded-xl bg-gradient-to-r from-purple-800 to-purple-800 via-purple-500">
-      <img class="object-contain rounded max-h-60" src="/images/uploads/img_5972001_20230409_115206.jpg" alt="In front of a house decorated with a bunch of purple balloons, Ms. Lottie poses with Yorkshire Woods Community Organization president Mose Primus." />
+
+    <article
+      class="flex flex-col gap-6 p-4 bg-purple-300 border-4 border-purple-700 md:flex-row rounded-xl bg-gradient-to-r from-purple-800 to-purple-800 via-purple-500"
+    >
+      <img
+        class="object-contain rounded max-h-60"
+        src="/images/uploads/img_5972001_20230409_115206.jpg"
+        alt="In front of a house decorated with a bunch of purple balloons, Ms. Lottie poses with Yorkshire Woods Community Organization president Mose Primus."
+      />
       <section>
-        <h2 class="mb-4 text-center text-white md:mt-4">Celebrating Ms. Lottie, 101 years young!</h2>
+        <h2 class="mb-4 text-center text-white md:mt-4">
+          Celebrating Ms. Lottie, 101 years young!
+        </h2>
         <p class="text-white">
-          On April 4th, we celebrated Ms. Lottie, who turned 101 years young! Read about the event and see the photos on the 
+          On April 4th, we celebrated Ms. Lottie, who turned 101 years young!
+          Read about the event and see the photos on the
           <a href="/events/event-2023-04-celebrating-ms-lottie">event page</a>.
         </p>
       </section>
     </article>
-    
+
     <section class="flex flex-col p-6">
       <EventsList
         title="Upcoming Events"
@@ -35,8 +44,21 @@
       </p>
 
       <h2 class="mt-6">Tell us what you need</h2>
-      <p>Fill out our community survey to tell us what you need from your neighborhood!</p>
-      <iframe class="mt-4 mb-8 border-y" title="Yorkshire Woods Community Survey" src="https://docs.google.com/forms/d/e/1FAIpQLSeDdbWg7KlQ0AkWmU-h7SzXasbX9hUtznB0VS2vPF-Zg-FZzQ/viewform?embedded=true" width="100%" height="400px" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+      <p>
+        Fill out our community survey to tell us what you need from your
+        neighborhood!
+      </p>
+      <iframe
+        class="mt-4 mb-8 border-y"
+        title="Yorkshire Woods Community Survey"
+        src="https://docs.google.com/forms/d/e/1FAIpQLSeDdbWg7KlQ0AkWmU-h7SzXasbX9hUtznB0VS2vPF-Zg-FZzQ/viewform?embedded=true"
+        width="100%"
+        height="400px"
+        frameborder="0"
+        marginheight="0"
+        marginwidth="0"
+        >Loading…</iframe
+      >
 
       <h2 class="mt-6">Our mission</h2>
       <p>
@@ -96,5 +118,5 @@
 
       <h2 class="mt-6 text-2xl">...We're all about you!</h2>
     </article>
-  </main>
+  </div>
 </template>
