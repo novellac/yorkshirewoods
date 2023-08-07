@@ -10,33 +10,24 @@
       <ul>
         <li>
           <h3 class="mt-4">Yorkshire Woods Community Organization</h3>
-          <p>
-            Yes, that's us (and you)! Read more about us:
-          </p>
+          <p>Yes, that's us (and you)! Read more about us:</p>
           <ul class="ml-4">
-          <li>
-          <a href="/home#mission">
-           Explore the YWCO mission
-        </a>
-         </li>
-          <li>
-          <NuxtLink to="/events">
-          Attend upcoming events
-        </NuxtLink>
-          </li>
-          <li>
-          <a href="/donate">
-          Donate to your neighborhood</a></li>
-          <li>
-          <a href="/bylaws">
-          Read about the YWCO bylaws
-          </a>
-          </li>
+            <li>
+              <NuxtLink to="/events"> Attend upcoming events </NuxtLink>
+            </li>
+            <li>
+              <a href="/donate"> Donate to your neighborhood</a>
+            </li>
+            <li>
+              <a href="/bylaws"> Read about the YWCO bylaws </a>
+            </li>
           </ul>
         </li>
 
         <li>
-          <h3 class="mt-4">Trash pickup schedule for Yorkshire Woods residents</h3>
+          <h3 class="mt-4">
+            Trash pickup schedule for Yorkshire Woods residents
+          </h3>
           <p>
             Trash is picked up on the odd (1st, 3rd, etc) Thursdays of the
             month. Bulk, Yard, and Recycling are picked up on the even (2nd,
