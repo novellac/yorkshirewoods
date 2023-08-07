@@ -62,6 +62,9 @@
 
       <h2 class="mt-6">Our mission</h2>
       <p>
+        Read about how we organize ouselves in the <a href="/bylaws">Yorkshire Woods Community Organization Bylaws</a>.
+      </p>
+      <p>
         To encourage, promote and aid in developing, improving and maintaining
         the area of Yorkshire Woods as a desirable residential community. We
         strive to unify the community spirit, and promote the health, safety and
