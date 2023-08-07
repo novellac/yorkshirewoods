@@ -15,9 +15,9 @@
           </p>
           <ul class="ml-4">
           <li>
-          <NuxtLink to="/home#mission">
+          <a href="/home#mission">
            Explore the YWCO mission
-        </NuxtLink>
+        </a>
          </li>
           <li>
           <NuxtLink to="/events">
@@ -25,12 +25,12 @@
         </NuxtLink>
           </li>
           <li>
-          <NuxtLink to="/donate">
-          Donate to your neighborhood</NuxtLink></li>
+          <a href="/donate">
+          Donate to your neighborhood</a></li>
           <li>
-          <NuxtLink to="/bylaws">
+          <a href="/bylaws">
           Read about the YWCO bylaws
-          </NuxtLink>
+          </a>
           </li>
           </ul>
         </li>

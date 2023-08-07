@@ -6,7 +6,7 @@
       city of Detroit, Michigan.
       <span aria-hidden="true">🌷</span>
       <a
-        href="https://www.zeffy.com/en-US/fundraising/296cf943-b89e-4ff8-859b-952cc4ddf186"
+        href="/donate"
       >
         Donate today!
       </a>
