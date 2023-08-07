@@ -60,8 +60,8 @@
         >Loading…</iframe
       >
 
-      <h2 class="mt-6">Our mission</h2>
-      <p>
+      <h2 id="mission" class="mt-6">Our mission</h2>
+      <p class="mb-2">
         Read about how we organize ouselves in the <a href="/bylaws">Yorkshire Woods Community Organization Bylaws</a>.
       </p>
       <p>
