@@ -2,26 +2,6 @@
   <div>
     <h1 class="px-6 mb-8 text-center">Welcome to the neighborhood!</h1>
 
-    <article
-      class="flex flex-col gap-6 p-4 bg-purple-300 border-4 border-purple-700 md:flex-row rounded-xl bg-gradient-to-r from-purple-800 to-purple-800 via-purple-500"
-    >
-      <img
-        class="object-contain rounded max-h-60"
-        src="/images/uploads/img_5972001_20230409_115206.jpg"
-        alt="In front of a house decorated with a bunch of purple balloons, Ms. Lottie poses with Yorkshire Woods Community Organization president Mose Primus."
-      />
-      <section>
-        <h2 class="mb-4 text-center text-white md:mt-4">
-          Celebrating Ms. Lottie, 101 years young!
-        </h2>
-        <p class="text-white">
-          On April 4th, we celebrated Ms. Lottie, who turned 101 years young!
-          Read about the event and see the photos on the
-          <a href="/events/event-2023-04-celebrating-ms-lottie">event page</a>.
-        </p>
-      </section>
-    </article>
-
     <section class="flex flex-col p-6">
       <EventsList
         title="Upcoming Events"
