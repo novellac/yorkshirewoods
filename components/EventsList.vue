@@ -1,9 +1,9 @@
 <template>
   <div>
     <h2>{{ title }}</h2>
-    <CardList v-if="filteredEvents.length">
+    <CardList v-if="sortedEvents.length">
       <OneCard
-        v-for="article in filteredEvents"
+        v-for="article in sortedEvents"
         :key="article._path"
         :theme="theme"
         class="max-w-sm"
@@ -53,6 +53,16 @@ const filteredEvents = await queryContent('events')
     },
   })
   .find()
+
+const sortedEvents = computed(() => {
+  if (!filteredEvents) return
+
+  if (props.eventTimeframe === 'past') {
+    return filteredEvents.reverse()
+  }
+  
+  return filteredEvents
+})
 
 const formattedStartEnd = (rawEventBegin, rawEventEnd) => {
   const dateFormatFull = 'dddd, MMMM D, YYYY h:mmAA'
