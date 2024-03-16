@@ -21,6 +21,9 @@
             <li>
               <a href="/bylaws"> Read about the YWCO bylaws </a>
             </li>
+            <li>
+              <a href="/minutes"> YWCO public meeting minutes </a>
+            </li>
           </ul>
         </li>
 
