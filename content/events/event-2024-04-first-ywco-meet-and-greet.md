@@ -6,5 +6,5 @@ location: Skinner Park - Duchess and Britain
 description: Come meet your neighbors and hear about resources!
 galleryImages:
   - src: /images/uploads/meet-and-greet-.png
-    alt: Skinner Park Meet and Greet
+    alt: Meet and Greet Flier
 ---
