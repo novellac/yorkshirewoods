@@ -24,7 +24,7 @@
 </template>
 
 <script setup>
-import { useNow, useDateFormat } from '@vueuse/core'
+import { useDateFormat } from '@vueuse/core';
 
 const props = defineProps({
   title: {
@@ -35,16 +35,16 @@ const props = defineProps({
     type: String,
     default: 'past',
     validator(c) {
-      return ['past', 'future'].includes(c)
+      return ['past', 'future'].includes(c);
     },
   },
   theme: {
     type: String,
     default: 'green',
   },
-})
+});
 
-const ISODateNow = new Date(Date.now()).toISOString()
+const ISODateNow = new Date(Date.now()).toISOString();
 
 const filteredEvents = await queryContent('events')
   .where({
@@ -52,23 +52,23 @@ const filteredEvents = await queryContent('events')
       [props.eventTimeframe === 'future' ? '$gte' : '$lt']: ISODateNow,
     },
   })
-  .find()
+  .find();
 
 const sortedEvents = computed(() => {
-  if (!filteredEvents) return
+  if (!filteredEvents) return;
 
   if (props.eventTimeframe === 'past') {
-    return filteredEvents.reverse()
+    return filteredEvents.reverse();
   }
-  
-  return filteredEvents
-})
+
+  return filteredEvents;
+});
 
 const formattedStartEnd = (rawEventBegin, rawEventEnd) => {
-  const dateFormatFull = 'dddd, MMMM D, YYYY h:mmAA'
-  const dateFormatTime = 'h:mmAA'
-  const dateBegin = new Date(rawEventBegin)
-  const dateEnd = new Date(rawEventEnd)
+  const dateFormatFull = 'dddd, MMMM D, YYYY h:mmAA';
+  const dateFormatTime = 'h:mmAA';
+  const dateBegin = new Date(rawEventBegin);
+  const dateEnd = new Date(rawEventEnd);
 
   // Ends on the same day, just show time end
   if (
@@ -78,11 +78,11 @@ const formattedStartEnd = (rawEventBegin, rawEventEnd) => {
   ) {
     return `${useDateFormat(dateBegin, dateFormatFull).value} - ${
       useDateFormat(dateEnd, dateFormatTime).value
-    }`
+    }`;
   }
 
   return `${useDateFormat(dateBegin, dateFormatFull).value} - ${
     useDateFormat(dateEnd, dateFormatFull).value
-  }`
-}
+  }`;
+};
 </script>
