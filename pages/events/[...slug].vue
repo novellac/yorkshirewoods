@@ -1,7 +1,7 @@
 <template>
   <main>
     <h1 class="mb-4">
-      {{ article.title }}
+      {{ article?.title }}
     </h1>
     <p>
       <span class="font-bold text-green-700">Location:</span>
@@ -37,7 +37,7 @@ const { data: article } = await useAsyncData(slug, () => {
 });
 
 useHead({
-  title: `${article.value.title}`,
+  title: `${article?.value?.title}`,
 });
 
 const formattedStartEnd = (rawEventBegin, rawEventEnd) => {
