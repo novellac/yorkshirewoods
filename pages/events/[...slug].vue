@@ -5,11 +5,18 @@
     </h1>
     <p>
       <span class="font-bold text-green-700">Location:</span>
-      {{ article.location }}
+      {{ article?.location }}
     </p>
-    <p v-if="article.eventbegin && article.eventend">
-      <span class="font-bold text-green-700">Date and time:</span>
-      {{ formattedStartEnd(article.eventbegin, article.eventend) }}
+    <p>
+      <span class="font-bold text-green-700">Date and time: </span>
+      <span
+        v-if="article.eventbegin && article.eventend && !article.eventstart"
+      >
+        {{ formattedStartEnd(article.eventbegin, article.eventend) }}
+      </span>
+
+      <span v-if="article.eventstart"> {{ article.eventstart }}</span>
+      <span v-if="article.eventstart"> - {{ article.eventstop }}</span>
     </p>
     <p>
       <span class="font-bold text-green-700">Description:</span>

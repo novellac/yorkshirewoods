@@ -12,7 +12,13 @@
           <NuxtLink :to="article._path">
             <h3 class="mb-2 underline">{{ article.title }}</h3>
           </NuxtLink>
-          <p v-if="article.eventbegin && article.eventend">
+          <p>
+            <span v-if="article.eventstart">{{ article.eventstart }}</span>
+            <span v-if="article.eventstart"> - {{ article.eventstop }}</span>
+          </p>
+          <p
+            v-if="article.eventbegin && article.eventend && !article.eventstart"
+          >
             {{ formattedStartEnd(article.eventbegin, article.eventend) }}
           </p>
           <p v-if="article.location">{{ article.location }}</p>
