@@ -4,8 +4,8 @@ backend:
 
 publish_mode: editorial_workflow
 
-media_folder: "public/images/uploads"
-public_folder: "/images/uploads"
+media_folder: 'public/images/uploads'
+public_folder: '/images/uploads'
 
 collections:
   - name: 'events'
@@ -20,11 +20,13 @@ collections:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Event Begin', name: 'eventbegin', widget: 'datetime' }
       - { label: 'Event End', name: 'eventend', widget: 'datetime' }
+      - { label: 'Event Begin (format like May 23, 2024 at 2:34pm)', name: 'eventstart', widget: 'string' }
+      - { label: 'Event End (format like May 23, 2024 at 2:34pm)', name: 'eventstop', widget: 'string' }
       - { label: 'Location', name: 'location', widget: 'string' }
       - { label: 'Description', name: 'description', widget: 'string' }
-      - label: "Gallery"
-        name: "galleryImages"
-        widget: "list"
+      - label: 'Gallery'
+        name: 'galleryImages'
+        widget: 'list'
         fields:
-          - { label: "Source", name: "src", widget: "image" }
-          - { label: "Alt Text", name: "alt", widget: "string" }
+          - { label: 'Source', name: 'src', widget: 'image' }
+          - { label: 'Alt Text', name: 'alt', widget: 'string' }
