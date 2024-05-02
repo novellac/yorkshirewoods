@@ -18,8 +18,8 @@ collections:
       preview: false
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Event Begin', name: 'eventbegin', widget: 'datetime' }
-      - { label: 'Event End', name: 'eventend', widget: 'datetime' }
+      - { label: 'Event Begin (do not worry if the is incorrect!)', name: 'eventbegin', widget: 'datetime' }
+      - { label: 'Event End (do not worry if the is incorrect!)', name: 'eventend', widget: 'datetime' }
       - { label: 'Event Begin (format like May 23, 2024 at 2:34pm)', name: 'eventstart', widget: 'string' }
       - { label: 'Event End (format like May 23, 2024 at 2:34pm)', name: 'eventstop', widget: 'string' }
       - { label: 'Location', name: 'location', widget: 'string' }
