@@ -3,6 +3,16 @@
     <h1 class="px-6 mb-8 text-center">Welcome to the neighborhood!</h1>
 
     <section class="flex flex-col p-6">
+      <h2>Featured event</h2>
+      <p class="max-w-md mb-8">
+        Come join us at the Summer Social! August 24, from 12 - 4pm, at 9745
+        Kensington Ave. There will be vendors, resources, and a live DJ!
+      </p>
+      <img
+        class="object-contain max-h-screen"
+        src="~/assets/images/2024AugustSummerSocial.png"
+        alt="Flier for summer social happening 12 - 4pm August 24, 2024 on 9745 Kensington Avenue"
+      />
       <EventsList
         title="Upcoming Events"
         eventTimeframe="future"
@@ -42,7 +52,8 @@
 
       <h2 id="mission" class="mt-6">Our mission</h2>
       <p class="mb-2">
-        Read about how we organize ouselves in the <a href="/bylaws">Yorkshire Woods Community Organization Bylaws</a>.
+        Read about how we organize ouselves in the
+        <a href="/bylaws">Yorkshire Woods Community Organization Bylaws</a>.
       </p>
       <p>
         To encourage, promote and aid in developing, improving and maintaining
