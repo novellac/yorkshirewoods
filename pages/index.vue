@@ -6,7 +6,7 @@
       <h2>Featured event</h2>
       <p class="max-w-md mb-8">
         Come join us at the Summer Social! August 24, from 12 - 4pm, at 9745
-        Kensington Ave. There will be vendors, resources, and a live DJ!
+        Kensington Ave. Engage with your neighbors, find resources, and enjoy an ice cream truck!
       </p>
       <img
         class="object-contain max-h-screen"

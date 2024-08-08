@@ -11,7 +11,7 @@
         <li>
           <h3 class="mt-4">Yorkshire Woods Community Organization</h3>
           <p>Yes, that's us (and you)! Read more about us:</p>
-          <ul class="ml-4">
+          <ul class="ml-4 list-disc">
             <li>
               <NuxtLink to="/events"> Attend upcoming events </NuxtLink>
             </li>
@@ -19,10 +19,14 @@
               <a href="/donate"> Donate to your neighborhood</a>
             </li>
             <li>
-              <a href="/bylaws"> Read about the YWCO bylaws </a>
+              <a href="/bylaws"> Read the YWCO bylaws </a>
             </li>
             <li>
               <a href="/minutes"> YWCO public meeting minutes </a>
+            </li>
+            <li>
+                <a href="/board-minutes"> YWCO executive board meeting minutes</a>
+                (requires sign-in. Want to know how you can be part of the executive board? <a href="mailto:yorkshirewoodsneighborhood@gmail.com">Email us!</a>)
             </li>
           </ul>
         </li>
