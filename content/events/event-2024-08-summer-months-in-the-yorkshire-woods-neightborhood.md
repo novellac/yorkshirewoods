@@ -27,4 +27,8 @@ galleryImages:
     alt: "#CampRestore helping out at the Four Angels Garden"
   - src: /images/uploads/primus.jpg
     alt: Mr. Mose Primus at a meeting!
+  - src: /images/uploads/5.jpg
+    alt: Fun at Brookings Park
+  - src: /images/uploads/6.jpg
+    alt: Fun at Brookings Park
 ---
