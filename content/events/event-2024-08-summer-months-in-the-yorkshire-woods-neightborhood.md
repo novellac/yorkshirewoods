@@ -15,4 +15,6 @@ galleryImages:
     alt: Fun at Brookings Park
   - src: /images/uploads/bp2.jpg
     alt: Fun at Brookings Park
+  - src: /images/uploads/4a1.jpg
+    alt: "#CampRestore helping out at the Four Angels Garden"
 ---
