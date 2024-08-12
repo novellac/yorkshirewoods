@@ -38,4 +38,6 @@ galleryImages:
     alt: Christmas in July in Yorkshire Woods!
   - src: /images/uploads/cij2.jpg
     alt: Christmas in July in Yorkshire Woods!
+  - src: /images/uploads/cij3.jpg
+    alt: Christmas in July in Yorkshire Woods!
 ---
