@@ -19,4 +19,6 @@ galleryImages:
     alt: "#CampRestore helping out at the Four Angels Garden"
   - src: /images/uploads/4a2.jpg
     alt: "#CampRestore helping out at the Four Angels Garden"
+  - src: /images/uploads/4a3.jpg
+    alt: "#CampRestore helping out at the Four Angels Garden"
 ---
