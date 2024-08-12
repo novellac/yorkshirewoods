@@ -25,4 +25,6 @@ galleryImages:
     alt: "#CampRestore helping out at the Four Angels Garden"
   - src: /images/uploads/4a5.jpg
     alt: "#CampRestore helping out at the Four Angels Garden"
+  - src: /images/uploads/primus.jpg
+    alt: Mr. Mose Primus at a meeting!
 ---
