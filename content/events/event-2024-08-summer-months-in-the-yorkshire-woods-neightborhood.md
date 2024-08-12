@@ -13,4 +13,6 @@ description: "Mr. Mose Primus at a meeting; Christmas in July at our Four
 galleryImages:
   - src: /images/uploads/bp1.jpg
     alt: Fun at Brookings Park
+  - src: /images/uploads/bp2.jpg
+    alt: Fun at Brookings Park
 ---
