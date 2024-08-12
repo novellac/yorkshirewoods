@@ -36,4 +36,6 @@ galleryImages:
       Tate, Mr. Mose Primus, and Mr. Blackwell
   - src: /images/uploads/cij1.jpg
     alt: Christmas in July in Yorkshire Woods!
+  - src: /images/uploads/cij2.jpg
+    alt: Christmas in July in Yorkshire Woods!
 ---
