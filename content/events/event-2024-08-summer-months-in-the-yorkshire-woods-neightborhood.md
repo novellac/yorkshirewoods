@@ -31,4 +31,9 @@ galleryImages:
     alt: Fun at Brookings Park
   - src: /images/uploads/6.jpg
     alt: Fun at Brookings Park
+  - src: /images/uploads/7.jpg
+    alt: At the grand opening of "Sound Body Sound Mind," from left to right, Mr.
+      Tate, Mr. Mose Primus, and Mr. Blackwell
+  - src: /images/uploads/cij1.jpg
+    alt: Christmas in July in Yorkshire Woods!
 ---
