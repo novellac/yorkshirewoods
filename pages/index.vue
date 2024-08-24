@@ -32,6 +32,20 @@
           </figure>
         </li>
         <li>
+          <figure>
+            <figcaption>Music and vibes courtesy of Luther Badman Keith!</figcaption>
+            <img class="object-contain max-h-screen" src="~/assets/images/20240824LutherBadmanKeith.jpg"
+            alt="Four musicians play intensely on a stage. A frontman displays emotive vocals and guitarwork while other members play harmonica, drums, and bass guitar." />
+          </figure>
+        </li>
+        <li>
+          <figure>
+            <figcaption>Welcome Latisha Johnson for City Council District 4, and event host Yorkshire Woods Community Organization!</figcaption>
+            <img class="object-contain max-h-screen" src="~/assets/images/20240824LatishaJohnson.jpg"
+            alt="Representatives from Councilwoman Johnson's office post next to representatives from Yorkshire Woods Community Organiztion. Both groups sit at their respective tables, each decorated with custom tablecloths." />
+          </figure>
+        </li>
+        <li>
           <img class="object-contain max-h-screen" src="~/assets/images/2024AugustSummerSocial.png"
             alt="Flier for summer social happening 12 - 4pm August 24, 2024 on 9745 Kensington Avenue" />
         </li>
