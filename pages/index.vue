@@ -8,19 +8,23 @@
         Come join us at the Summer Social! August 24, from 12 - 4pm, at 9745
         Kensington Ave. Engage with your neighbors, find resources, and enjoy an ice cream truck!
       </p>
-      <img
-        class="object-contain max-h-screen"
-        src="~/assets/images/2024AugustSummerSocial.png"
-        alt="Flier for summer social happening 12 - 4pm August 24, 2024 on 9745 Kensington Avenue"
-      />
-      <EventsList
-        title="Upcoming Events"
-        eventTimeframe="future"
-        theme="green"
-      />
-      <NuxtLink class="ml-auto text-lg underline" to="/events"
-        >See all events</NuxtLink
-      >
+      <h3 class="sr-only">Event images</h3>
+      <ul class="flex flex-wrap justify-center">
+        <li>
+          <figure>
+            <figcaption>Stacy's Tea is here serving refreshing tea slushies!</figcaption>
+            <img class="object-contain max-h-screen" src="~/assets/images/20240824StacysTea.jpg"
+            alt="Stacy's Tea vendor standing at a canopied tea stall. The canopy reads Stacys 2 Day Tea, Mmm that's refreshing!" />
+          </figure>
+        </li>
+        <li>
+          <img class="object-contain max-h-screen" src="~/assets/images/2024AugustSummerSocial.png"
+            alt="Flier for summer social happening 12 - 4pm August 24, 2024 on 9745 Kensington Avenue" />
+        </li>
+       
+      </ul>
+      <EventsList title="Upcoming Events" eventTimeframe="future" theme="green" />
+      <NuxtLink class="ml-auto text-lg underline" to="/events">See all events</NuxtLink>
     </section>
 
     <article class="p-6 mt-12">
@@ -38,17 +42,9 @@
         Fill out our community survey to tell us what you need from your
         neighborhood!
       </p>
-      <iframe
-        class="mt-4 mb-8 border-y"
-        title="Yorkshire Woods Community Survey"
+      <iframe class="mt-4 mb-8 border-y" title="Yorkshire Woods Community Survey"
         src="https://docs.google.com/forms/d/e/1FAIpQLSeDdbWg7KlQ0AkWmU-h7SzXasbX9hUtznB0VS2vPF-Zg-FZzQ/viewform?embedded=true"
-        width="100%"
-        height="400px"
-        frameborder="0"
-        marginheight="0"
-        marginwidth="0"
-        >Loading…</iframe
-      >
+        width="100%" height="400px" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
       <h2 id="mission" class="mt-6">Our mission</h2>
       <p class="mb-2">
