@@ -9,7 +9,7 @@
         Kensington Ave. Engage with your neighbors, find resources, and enjoy an ice cream truck!
       </p>
       <h3 class="sr-only">Event images</h3>
-      <ul class="flex flex-wrap justify-center">
+      <ul class="flex flex-wrap justify-center gap-6">
         <li>
           <figure>
             <figcaption>Stacy's Tea is here serving refreshing tea slushies!</figcaption>
