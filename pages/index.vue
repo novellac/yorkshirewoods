@@ -46,6 +46,14 @@
           </figure>
         </li>
         <li>
+            <img class="object-contain max-h-screen" src="~/assets/images/20240824Group2.jpg"
+            alt="Smiling residents sit on a picnic bench beneath a sun umbrella." />
+        </li>
+        <li>
+            <img class="object-contain max-h-screen" src="~/assets/images/20240824Group3.jpg"
+            alt="YWCO president Mose Primus sits at a parkbench, in conversation with a nearby resident." />
+        </li>
+        <li>
           <img class="object-contain max-h-screen" src="~/assets/images/2024AugustSummerSocial.png"
             alt="Flier for summer social happening 12 - 4pm August 24, 2024 on 9745 Kensington Avenue" />
         </li>
