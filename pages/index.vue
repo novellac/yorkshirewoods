@@ -12,6 +12,13 @@
       <ul class="flex flex-wrap justify-center gap-6">
         <li>
           <figure>
+            <figcaption>Join the Yorkshire Woods community!</figcaption>
+            <img class="object-contain max-h-screen" src="~/assets/images/20240824Group1.jpg"
+            alt="Nine community members smile at the camera in front of festival tents." />
+          </figure>
+        </li>
+        <li>
+          <figure>
             <figcaption>Stacy's Tea is here serving refreshing tea slushies!</figcaption>
             <img class="object-contain max-h-screen" src="~/assets/images/20240824StacysTea.jpg"
             alt="Stacy's Tea vendor standing at a canopied tea stall. The canopy reads Stacys 2 Day Tea, Mmm that's refreshing!" />
