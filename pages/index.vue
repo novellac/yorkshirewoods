@@ -19,6 +19,13 @@
         </li>
         <li>
           <figure>
+            <figcaption>Afro-Yo is here for your icy sweets and treats!</figcaption>
+            <img class="object-contain max-h-screen" src="~/assets/images/20240824Afroyo.jpg"
+            alt="Afro-yo vendor standing at the window of a food truck decorated with brightly colored menu items." />
+          </figure>
+        </li>
+        <li>
+          <figure>
             <figcaption>Stacy's Tea is here serving refreshing tea slushies!</figcaption>
             <img class="object-contain max-h-screen" src="~/assets/images/20240824StacysTea.jpg"
             alt="Stacy's Tea vendor standing at a canopied tea stall. The canopy reads Stacys 2 Day Tea, Mmm that's refreshing!" />
