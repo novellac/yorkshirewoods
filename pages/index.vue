@@ -9,7 +9,7 @@
         Kensington Ave. Engage with your neighbors, find resources, and enjoy an ice cream truck!
       </p>
       <h3 class="sr-only">Event images</h3>
-      <ul class="flex flex-wrap justify-center gap-6">
+      <ul class="flex flex-wrap justify-center gap-6 mb-10">
         <li>
           <figure>
             <figcaption>Join the Yorkshire Woods community!</figcaption>
