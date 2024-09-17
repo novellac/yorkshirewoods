@@ -10,4 +10,7 @@ description: "Detroit Emergency Response Team holds free, quarterly 4-day
   Emergency Response Team registration form. Details available at:
   https://detroitmi.gov/departments/homeland-security-emergency-management-detr\
   oit/community-emergency-response-team-cert "
+galleryImages:
+  - src: /images/uploads/cert_info.jpg
+    alt: CERT Training Information
 ---
