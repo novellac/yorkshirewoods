@@ -1,7 +1,7 @@
 ---
 title: Community Emergency Response Team Volunteer Training
-eventbegin: 2024-09-19T17:30:00.000Z
-eventend: 2024-09-20T20:00:00.000Z
+eventbegin: 2024-09-19T21:30:00.000Z
+eventend: 2024-09-20T12:00:00.000Z
 eventstart: September 19, 2024 at 5:30 pm
 eventstop: September 20, 2024 at 8 pm
 location: Eastside Community Network, 4401 Conner St., Detroit, 48215
