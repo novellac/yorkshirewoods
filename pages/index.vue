@@ -3,21 +3,22 @@
     <h1 class="px-6 mb-8 text-center">Welcome to the neighborhood!</h1>
 
     <section class="flex flex-col p-6">
-      <!-- <h2>Featured event</h2>
+      <h2>Featured event</h2>
       <p class="max-w-md mb-8">
-        Come join us at the Summer Social! August 24, from 12 - 4pm, at 9745
-        Kensington Ave. Engage with your neighbors, find resources, and enjoy an ice cream truck!
+        Bring the whole family and come join us at the Harvest Festival. October 26, from 12 - 4pm, at 9745
+        Kensington Ave. Enjoy trick or treat bags, vendors, resources, and more!
       </p>
       <h3 class="sr-only">Event images</h3>
       <ul class="flex flex-wrap justify-center gap-6 mb-10">
         <li>
           <figure>
-            <figcaption>Join the Yorkshire Woods community!</figcaption>
-            <img class="object-contain max-h-screen" src="~/assets/images/20240824Group1.jpg"
-            alt="Nine community members smile at the camera in front of festival tents." />
+            <figcaption>Join in the autumn fun! To be a vendor, voluneer, or donate, contact us yorkshirewoodsneighborhood@gmail.com</figcaption>
+            <img class="object-contain max-h-screen" src="~/assets/images/2024HarvestFestivalPoster.png"
+            alt="A brightly colored flyer with cartoon hay, pumpkins, corn, and jack-o-lanterns. Flyer advertises the harvest festival being held on October 26 from 12pm - 4pm at 9745 Kensington Ave." />
           </figure>
         </li>       
-      </ul> -->
+      </ul>
+
       <EventsList title="Upcoming Events" eventTimeframe="future" theme="green" />
       <NuxtLink class="ml-auto text-lg underline" to="/events">See all events</NuxtLink>
     </section>
