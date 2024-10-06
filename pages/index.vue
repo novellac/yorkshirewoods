@@ -3,7 +3,7 @@
     <h1 class="px-6 mb-8 text-center">Welcome to the neighborhood!</h1>
 
     <section class="flex flex-col p-6">
-      <h2>Featured event</h2>
+      <!-- <h2>Featured event</h2>
       <p class="max-w-md mb-8">
         Come join us at the Summer Social! August 24, from 12 - 4pm, at 9745
         Kensington Ave. Engage with your neighbors, find resources, and enjoy an ice cream truck!
@@ -16,49 +16,8 @@
             <img class="object-contain max-h-screen" src="~/assets/images/20240824Group1.jpg"
             alt="Nine community members smile at the camera in front of festival tents." />
           </figure>
-        </li>
-        <li>
-          <figure>
-            <figcaption>Afro-Yo is here for your icy sweets and treats!</figcaption>
-            <img class="object-contain max-h-screen" src="~/assets/images/20240824Afroyo.jpg"
-            alt="Afro-yo vendor standing at the window of a food truck decorated with brightly colored menu items." />
-          </figure>
-        </li>
-        <li>
-          <figure>
-            <figcaption>Stacy's Tea is here serving refreshing tea slushies!</figcaption>
-            <img class="object-contain max-h-screen" src="~/assets/images/20240824StacysTea.jpg"
-            alt="Stacy's Tea vendor standing at a canopied tea stall. The canopy reads Stacys 2 Day Tea, Mmm that's refreshing!" />
-          </figure>
-        </li>
-        <li>
-          <figure>
-            <figcaption>Music and vibes courtesy of Luther Badman Keith!</figcaption>
-            <img class="object-contain max-h-screen" src="~/assets/images/20240824LutherBadmanKeith.jpg"
-            alt="Four musicians play intensely on a stage. A frontman displays emotive vocals and guitarwork while other members play harmonica, drums, and bass guitar." />
-          </figure>
-        </li>
-        <li>
-          <figure>
-            <figcaption>Welcome Latisha Johnson for City Council District 4, and event host Yorkshire Woods Community Organization!</figcaption>
-            <img class="object-contain max-h-screen" src="~/assets/images/20240824LatishaJohnson.jpg"
-            alt="Representatives from Councilwoman Johnson's office post next to representatives from Yorkshire Woods Community Organiztion. Both groups sit at their respective tables, each decorated with custom tablecloths." />
-          </figure>
-        </li>
-        <li>
-            <img class="object-contain max-h-screen" src="~/assets/images/20240824Group2.jpg"
-            alt="Smiling residents sit on a picnic bench beneath a sun umbrella." />
-        </li>
-        <li>
-            <img class="object-contain max-h-screen" src="~/assets/images/20240824Group3.jpg"
-            alt="YWCO president Mose Primus sits at a parkbench, in conversation with a nearby resident." />
-        </li>
-        <li>
-          <img class="object-contain max-h-screen" src="~/assets/images/2024AugustSummerSocial.png"
-            alt="Flier for summer social happening 12 - 4pm August 24, 2024 on 9745 Kensington Avenue" />
-        </li>
-       
-      </ul>
+        </li>       
+      </ul> -->
       <EventsList title="Upcoming Events" eventTimeframe="future" theme="green" />
       <NuxtLink class="ml-auto text-lg underline" to="/events">See all events</NuxtLink>
     </section>
