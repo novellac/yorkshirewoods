@@ -3,7 +3,7 @@
     <h1 class="px-6 mb-8 text-center">Welcome to the neighborhood!</h1>
 
     <section class="flex flex-col p-6">
-      <h2>Featured event</h2>
+      <h2 id="featured-event">Featured event</h2>
       <p class="max-w-md mb-8">
         Bring the whole family and come join us at the Harvest Festival. October 26, from 12 - 4pm, at 9745
         Kensington Ave. Enjoy trick or treat bags, vendors, resources, and more!
@@ -33,7 +33,17 @@
         <span class="bold">Whittier Street</span> on the west.
       </p>
 
-      <h2 class="mt-6">Tell us what you need</h2>
+      <h2 id="give-feedback" class="mt-6">Tell us what you need</h2>
+
+      <h3 class="mt-3 mb-1">Anchor Detroit survey</h3>
+      <p>
+        Anchor Detroit, presented by <a href="https://liferemodeled.org">Life Remodeled</a>, is a community center in the Yorkshire Woods area.
+        We encourage you to fill out their survey about your needs for Anchor Detroit. This will help
+        Life Remodeled bring the programs and events YOU want to see!
+      </p>
+      <a href="https://submit.jotform.com/beckyLR/anchordetroitsurvey">Fill out the Anchor Detroit survey here!</a>
+      
+      <h3 class="mt-6 mb-1">Yorkshire Woods Neighborhood survey</h3>
       <p>
         Fill out our community survey to tell us what you need from your
         neighborhood!
@@ -57,10 +67,10 @@
         residents and business owners.
       </p>
 
-      <h2 class="mt-6">In the press</h2>
+      <h2 id="press" class="mt-6">In the press</h2>
       <YTEmbed videoId="i-um2IyI3PA" />
 
-      <h2 class="mt-6">Our history</h2>
+      <h2 id="history" class="mt-6">Our history</h2>
       <p>
         YWCO was originally formed in the 1970s as Neighbors United. Detroit
         officially recognizes the area which borders Kelly Road, Whittier, I-94,
@@ -69,7 +79,7 @@
         early 1920s, still exists, and is occupied by the original family.
       </p>
 
-      <h2 class="mt-6">We're all about...</h2>
+      <h2 id="values" class="mt-6">We're all about...</h2>
 
       <h3 class="mt-4">Reclaiming</h3>
       <p>
@@ -102,7 +112,7 @@
         make things happen.
       </p>
 
-      <h2 class="mt-6 text-2xl">...We're all about you!</h2>
+      <p class="mt-6 text-2xl">...We're all about you!</p>
     </article>
   </div>
 </template>
