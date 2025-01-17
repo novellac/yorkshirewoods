@@ -8,7 +8,7 @@ location: Various locations -- please see the flyer(s)
 description: Disctrict 4 community engagement activities
 galleryImages:
   - src: /images/uploads/johnson_page_1.jpg
-    alt: Johnson flyer 1
+    alt: Latisha Johnson, Councilperson, contact flyer
   - src: /images/uploads/johnson_page_2.jpg
-    alt: Johnson flyer 2
+    alt: District 4 events in January and February 2025
 ---
