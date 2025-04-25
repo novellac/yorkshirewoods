@@ -94,14 +94,14 @@
       </p>
       <a href="https://submit.jotform.com/beckyLR/anchordetroitsurvey">Fill out the Anchor Detroit survey here!</a>
 
-      <h3 class="mt-6 mb-1">Yorkshire Woods Neighborhood survey</h3>
+      <!-- <h3 class="mt-6 mb-1">Yorkshire Woods Neighborhood survey</h3>
       <p>
         Fill out our community survey to tell us what you need from your
         neighborhood!
       </p>
       <iframe class="mt-4 mb-8 border-y" title="Yorkshire Woods Community Survey"
         src="https://docs.google.com/forms/d/e/1FAIpQLSeDdbWg7KlQ0AkWmU-h7SzXasbX9hUtznB0VS2vPF-Zg-FZzQ/viewform?embedded=true"
-        width="100%" height="400px" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+        width="100%" height="400px" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe> -->
 
       <h2 id="mission" class="mt-6">Our mission</h2>
       <p class="mb-2">
