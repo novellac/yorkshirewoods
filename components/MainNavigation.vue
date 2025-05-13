@@ -1,6 +1,6 @@
 <template>
   <nav class="flex justify-center px-2 text-white bg-green-800">
-    <ul class="flex flex-col flex-wrap gap-4 my-2 sm:gap-8 sm:flex-row">
+    <ul class="flex justify-center flex-wrap gap-4 my-2 sm:gap-8 sm:flex-row">
       <li>
         <NuxtLink class="no-underline" to="/" ariaCurrentValue="page">
           Home
