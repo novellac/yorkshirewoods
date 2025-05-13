@@ -3,10 +3,15 @@
     <h1 class="px-6 mb-8 text-center">Welcome to the neighborhood!</h1>
 
     <section class="flex flex-col p-6">
-      <!-- <h2 id="featured-event">Featured Resource</h2>
+      <h2 id="featured-event">Featured Event</h2>
       <div class="flex flex-col gap-4 mb-8">
-        Featured Resource info here
-      </div> -->
+          <p>On Saturday, May 10, 2025, volunteers gathered at the Four Angels Garden in Yorkshire Woods. Together we cleaned and improved the grounds, fellowshipped, and kept working on plans for the neighborhood!</p>
+          <figure>
+            <img class="object-contain max-h-screen" src="~/assets/images/motorCityMakeover20250510.jpg"
+            alt="Ten people stand shoulder to shoulder in the sunshine, surrounded by blooming bushes and freshly shorn grass. The people embrace each other and smile at the camera." />
+            <figcaption>Community President Mr. Mose Primus and other executive board members with volunteers for Motor City Makeover on May 10, 2025 at the Four Angels Garden.</figcaption>
+          </figure>
+      </div>
 
       <!-- <h3 class="sr-only">Event images</h3>
       <ul class="flex flex-wrap justify-center gap-6 mb-10">
