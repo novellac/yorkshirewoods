@@ -1,5 +1,5 @@
 <template>
-  <section class="pt-3 pb-2 my-1 text-center bg-lime-100">
+  <section class="pt-3 pb-2 my-2 text-center bg-lime-100">
     <p class="flex items-center justify-center gap-2 text-lime-900">
       <span class="text-3xl" aria-hidden="true">🌷</span>
       <span class="text-lg"

@@ -19,6 +19,8 @@
 
     <MainNavigation />
 
+    <RegularMeetingBanner/>
+    
     <DonationBanner />
   </header>
 </template>
