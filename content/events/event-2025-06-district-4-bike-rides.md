@@ -1,7 +1,7 @@
 ---
 title: District 4 Bike Rides
-eventbegin: 2025-06-19T17:30:00.000Z
-eventend: 2025-08-28T19:30:00.000Z
+eventbegin: 2025-06-19T21:30:00.000Z
+eventend: 2025-08-28T23:30:00.000Z
 eventstart: JUN 19, 2025 AT 5:30PM
 eventstop: AUG 28, 2025 AT 7:30PM
 location: Multiple locations, please see the flyer
