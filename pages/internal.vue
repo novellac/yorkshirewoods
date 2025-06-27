@@ -10,7 +10,7 @@
       <h2>Door hangers</h2>
       <ul>
         <li>
-          <a href="/door-hager" target="_blank">Canva file for door hanger (opens in new tab)</a>
+          <a href="https://www.canva.com/design/DAFkx12FcmE/eIoyfa_z8g99pEPGvz4D3w/edit" target="_blank">Canva file for door hanger (view only) (opens in new tab)</a>
         </li>
         <li>
           <a href="/images/uploads/YWCODoorHanger20250627.pdf" target="_blank">PDF - current as of June 2025 (opens in new tab)</a>
