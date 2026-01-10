@@ -7,7 +7,5 @@ eventstop: JANUARY 22, 2026 AT 8:00PM
 location: Heilmann Recreation Center, 19601 Brock Ave, Detroit, MI 48205
 description: "Please join us to workshop early recommendations for
   Denby/Whittier neighborhoods; RSVP Online: bit.ly/dw-rsvp"
-galleryImages:
-  - src: /images/uploads/np.png
-    alt: Neighborhood Framework Plan flyer
+galleryImages: []
 ---
