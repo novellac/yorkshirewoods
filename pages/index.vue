@@ -5,12 +5,14 @@
     <section class="flex flex-col p-6">
       <h2 id="featured-event">Featured Event</h2>
       <div class="flex flex-col gap-4 mb-8">
-          <p>On Saturday, May 10, 2025, volunteers gathered at the Four Angels Garden in Yorkshire Woods. Together we cleaned and improved the grounds, fellowshipped, and kept working on plans for the neighborhood!</p>
-          <figure>
-            <img class="object-contain max-h-screen" src="~/assets/images/motorCityMakeover20250510.jpg"
+        <p>On Saturday, May 10, 2025, volunteers gathered at the Four Angels Garden in Yorkshire Woods. Together we
+          cleaned and improved the grounds, fellowshipped, and kept working on plans for the neighborhood!</p>
+        <figure>
+          <img class="object-contain max-h-screen" src="~/assets/images/motorCityMakeover20250510.jpg"
             alt="Ten people stand shoulder to shoulder in the sunshine, surrounded by blooming bushes and freshly shorn grass. The people embrace each other and smile at the camera." />
-            <figcaption>Community President Mr. Mose Primus and other executive board members with volunteers for Motor City Makeover on May 10, 2025 at the Four Angels Garden.</figcaption>
-          </figure>
+          <figcaption>Community President Mr. Mose Primus and other executive board members with volunteers for Motor
+            City Makeover on May 10, 2025 at the Four Angels Garden.</figcaption>
+        </figure>
       </div>
 
       <!-- <h3 class="sr-only">Event images</h3>
@@ -39,6 +41,13 @@
       </p>
 
       <h2 id="give-feedback" class="mt-6">Tell us what you need</h2>
+
+      <h3 class="mt-3 mb-1">Rise Higher Detroit survey</h3>
+      <p>
+        Rise Higher Detroit, Mayor Mary Sheffield's transition initiative, is conducting a citywide survey. They'll use
+        the information gathered in the survey to help allocate resources and deliver services across the city.
+      </p>
+      <a href="https://www.risehigherdetroit.com/survey">Fill out the Rise Higher Detroit survey here!</a>
 
       <h3 class="mt-3 mb-1">Anchor Detroit survey</h3>
       <p>
