@@ -12,8 +12,9 @@
           volunteering with Yorkshire Woods Community Organization. Whether you've got a green thumb, love planning
           events, or just hanging out with friends and neighbors,
           there's a place for you here!
-          <a href="mailto:yorkshirewoodsneighborhood@gmail.com"
-            class="text-center my-2 block text-xl text-green-700">Interested?
+          <a href="mailto:yorkshirewoodsneighborhood@gmail.com&subject=Spring%202026%20volunteer%20interest%20&body=I%20am%20interested%20in%20helping%20this%20spring!"
+            class="text-center my-2 block text-xl text-green-700">
+            Interested?
             Email
             us and we'll
             help you every step of the way!
