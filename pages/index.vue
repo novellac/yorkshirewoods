@@ -3,15 +3,30 @@
     <h1 class="px-6 mb-8 text-center">Welcome to the neighborhood!</h1>
 
     <section class="flex flex-col p-6">
-      <h2 id="featured-event">Featured Event</h2>
+      <!-- <h2 id="featured-event">Featured Event</h2> -->
+      <h2 id="featured-event">Help bring spring to Yorkshire Woods!</h2>
       <div class="flex flex-col gap-4 mb-8">
-        <p>On Saturday, May 10, 2025, volunteers gathered at the Four Angels Garden in Yorkshire Woods. Together we
-          cleaned and improved the grounds, fellowshipped, and kept working on plans for the neighborhood!</p>
+        <p>
+          This spring, come get to know your
+          neighbors and beautify your community by
+          volunteering with Yorkshire Woods Community Organization. Whether you've got a green thumb, love planning
+          events, or just hanging out with friends and neighbors,
+          there's a place for you here!
+          <a href="mailto:yorkshirewoodsneighborhood@gmail.com"
+            class="text-center my-2 block text-xl text-green-700">Interested?
+            Email
+            us and we'll
+            help you every step of the way!
+          </a>
+        </p>
         <figure>
-          <img class="object-contain max-h-screen" src="~/assets/images/motorCityMakeover20250510.jpg"
-            alt="Ten people stand shoulder to shoulder in the sunshine, surrounded by blooming bushes and freshly shorn grass. The people embrace each other and smile at the camera." />
-          <figcaption>Community President Mr. Mose Primus and other executive board members with volunteers for Motor
-            City Makeover on May 10, 2025 at the Four Angels Garden.</figcaption>
+          <img class="object-contain max-h-screen" src="~/assets/images/YWCO2026SpringFlyer.jpeg"
+            alt="Spring volunteer flyer for Yorkshire Woods Community Organization" />
+          <figcaption>
+            Join your neighbors and volunteers in assisting with 2026 planting, beginning March 28 and 29, 2026. You can
+            gain community service hours, fellowship with your neighbors, and increase community unity! We need help
+            with gardening, event planning, community engagement, and program development.
+          </figcaption>
         </figure>
       </div>
 
