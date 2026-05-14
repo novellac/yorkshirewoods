@@ -4,25 +4,24 @@
 
     <section class="flex flex-col p-6">
       <!-- <h2 id="featured-event">Featured Event</h2> -->
-      <h2 id="featured-event">Help bring spring to Yorkshire Woods!</h2>
+      <h2 id="featured-event">Motor City Makeover 2026!</h2>
       <div class="flex flex-col gap-4 mb-8">
         <p>
-          This spring, come get to know your
-          neighbors and beautify your community by
-          volunteering with Yorkshire Woods Community Organization. Whether you've got a green thumb, love planning
-          events, or just hanging out with friends and neighbors,
-          there's a place for you here!
-          <a href="https://bit.ly/3OVmnbY" class="text-center my-2 block text-xl text-green-700">
-            Fill out our volunteer interest form and we'll help you every step of the way!
-          </a>
+          Join us on Saturday, May 16, 2026! From 12:00 PM - 4:00 PM. We'll be picking up litter, raking, planting
+          flowers, painting our fence, spreading mulch, and doing some minor repairs. You can help!
+        </p>
+
+        <p>
+          No experience
+          necessary! We'll provide the gloves and supplies. You should wear comfortable work clothes and sturdy shoes.
+          We'll bring some light refreshments. Let's beautify our neighborhood together!
         </p>
         <figure>
-          <img class="object-contain max-h-screen" src="~/assets/images/YWCO2026SpringFlyer.jpeg"
+          <img class="object-contain max-h-screen" src="~/assets/images/motorcityMakeover2026Flyer.jpeg"
             alt="Spring volunteer flyer for Yorkshire Woods Community Organization" />
           <figcaption>
-            Join your neighbors and volunteers in assisting with 2026 planting, beginning March 28 and 29, 2026. You can
-            gain community service hours, fellowship with your neighbors, and increase community unity! We need help
-            with gardening, event planning, community engagement, and program development.
+            Join your neighbors and volunteers for MotorCity Makeover 2026! May 16, 2026 from 12:00 PM - 4:00 PM.
+            Located at 9745 Kensington Ave, Detroit.
           </figcaption>
         </figure>
       </div>
