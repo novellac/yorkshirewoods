@@ -4,26 +4,18 @@
 
     <section class="flex flex-col p-6">
       <!-- <h2 id="featured-event">Featured Event</h2> -->
-      <h2 id="featured-event">Motor City Makeover 2026!</h2>
-      <div class="flex flex-col gap-4 mb-8">
+      <h2 id="featured-event">$58 million Detroit Road Repaving Project Comes to Yorkshire Woods!</h2>
+      <div class="flex flex-col gap-4 mb-8 md:mb-20">
         <p>
-          Join us on Saturday, May 16, 2026! From 12:00 PM - 4:00 PM. We'll be picking up litter, raking, planting
-          flowers, painting our fence, spreading mulch, and doing some minor repairs. You can help!
+          As part of the $58 million investment announced Tuesday by Detroit Mayor Mary Sheffield, Kenny Street began
+          being repaved on Wednesday, June 24. The goal is to repave streets in every neighborhood across Detroit.
+          Watch the video below to see two of our own, Yorkshire Woods Neighborhood president Mose Primus and resident
+          Michelle West, featured on Channel 7 news!
         </p>
-
-        <p>
-          No experience
-          necessary! We'll provide the gloves and supplies. You should wear comfortable work clothes and sturdy shoes.
-          We'll bring some light refreshments. Let's beautify our neighborhood together!
-        </p>
-        <figure>
-          <img class="object-contain max-h-screen" src="~/assets/images/motorcityMakeover2026Flyer.jpeg"
-            alt="Spring volunteer flyer for Yorkshire Woods Community Organization" />
-          <figcaption>
-            Join your neighbors and volunteers for MotorCity Makeover 2026! May 16, 2026 from 12:00 PM - 4:00 PM.
-            Located at 9745 Kensington Ave, Detroit.
-          </figcaption>
-        </figure>
+        <a href="https://www.youtube.com/watch?v=GBjMVnv_CxQ" class="border-8 rounded-md border-green-600 self-start">
+          <img class="object-contain max-h-screen" src="~/assets/images/roadRepaving20260624.png"
+            alt="YouTube video segment titled $58 million Detroit road repaving project announced by Mayor Mary Sheffield." />
+        </a>
       </div>
 
       <!-- <h3 class="sr-only">Event images</h3>
