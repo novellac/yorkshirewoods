@@ -4,18 +4,17 @@
 
     <section class="flex flex-col p-6">
       <!-- <h2 id="featured-event">Featured Event</h2> -->
-      <h2 id="featured-event">$58 million Detroit Road Repaving Project Comes to Yorkshire Woods!</h2>
+      <h2 id="featured-event">Fall is here! Let's celebrate!<br>October 24th, 2026 12-4pm</h2>
       <div class="flex flex-col gap-4 mb-8 md:mb-20">
+        <img class="object-contain max-h-screen" src="~/assets/images/ywcoFallHarvestEventFlyer2026.jpg"
+            alt="AI-generated flyer for the YWCO 2026 Harvest Fall Event October 24 2026 12PM to 4PM" />
         <p>
-          As part of the $58 million investment announced Tuesday by Detroit Mayor Mary Sheffield, Kenny Street began
-          being repaved on Wednesday, June 24. The goal is to repave streets in every neighborhood across Detroit.
-          Watch the video below to see two of our own, Yorkshire Woods Neighborhood president Mose Primus and resident
-          Michelle West, featured on Channel 7 news!
+          The 2026 Harvest Fall Event is here! Join us for a day of fun, food, and fellowship! We'll have a DJ, a bounce house, and free costume for the kids!
+          There will also be apple cider, apples, and donuts, as well as we free candy bags for the kids.
+          We're still looking for vendors! A big thanks to our partners: Sound Body Sound Mind, Buter Funeral Home, Inner City Property Management LLC, IFIX Detroit, Happy Pizza, Grace Supermarket, I Live Outreach, and Jungle Juice Bar.
+          A big thanks also to our Yorkshire Woods community block clubs: Wayburn Block Club, Rossiter Block Club, Nottingham BLock Club, and Bishop Block Club.
+          For more info, contact <a href="mailto:moseprimus@comcast.net&subject=Fall%20harvest%20inquiry">Mose Primus.</a>
         </p>
-        <a href="https://www.youtube.com/watch?v=GBjMVnv_CxQ" class="border-8 rounded-md border-green-600 self-start">
-          <img class="object-contain max-h-screen" src="~/assets/images/roadRepaving20260624.png"
-            alt="YouTube video segment titled $58 million Detroit road repaving project announced by Mayor Mary Sheffield." />
-        </a>
       </div>
 
       <!-- <h3 class="sr-only">Event images</h3>
