@@ -4,28 +4,28 @@
 
     <section class="flex flex-col p-6">
       <!-- <h2 id="featured-event">Featured Event</h2> -->
-      <h2 id="featured-event">Fall is here! Let's celebrate!<br>October 24th, 2026 12-4pm</h2>
+      <h2 id="featured-event">Harvest Fall Festival 2026<br>YOU made it happen!</h2>
       <div class="flex flex-col gap-4 mb-8 md:mb-20">
-        <img class="object-contain max-h-screen" src="~/assets/images/ywcoFallHarvestEventFlyer2026.jpg"
+        <img class="object-contain max-h-screen" src="~/assets/images/signal-2026-11-05-10-15-06-647.jpg"
             alt="AI-generated flyer for the YWCO 2026 Harvest Fall Event October 24 2026 12PM to 4PM" />
         <p>
-          The 2026 Harvest Fall Event is here! Join us for a day of fun, food, and fellowship! We'll have a DJ, a bounce house, and free costume for the kids!
-          There will also be apple cider, apples, and donuts, as well as we free candy bags for the kids.
-          We're still looking for vendors! A big thanks to our partners: Sound Body Sound Mind, Buter Funeral Home, Inner City Property Management LLC, IFIX Detroit, Happy Pizza, Grace Supermarket, I Live Outreach, and Jungle Juice Bar.
+          A huge THANK YOU to...YOU! Thanks, everyone for coming out and celebrating YOUR neighborhood! The 2026 Harvest Fall Event was a great success!
+          We enjoyed a day of fun, food, and fellowship! Residents from 2 to 102 enjoyed a DJ, treats, and information from local
+          elected officials, organizations, and businesses. A big thanks to our partners: Sound Body Sound Mind, Buter Funeral Home, Inner City Property Management LLC, IFIX Detroit, Happy Pizza, Grace Supermarket, I Live Outreach, and Jungle Juice Bar.
           A big thanks also to our Yorkshire Woods community block clubs: Wayburn Block Club, Rossiter Block Club, Nottingham BLock Club, and Bishop Block Club.
-          For more info, contact <a href="mailto:moseprimus@comcast.net&subject=Fall%20harvest%20inquiry">Mose Primus.</a>
         </p>
+        <a class="text-lg font-bold" href="/events/event-2026-10-fall-harvest-fest-2026">See all the pictures here!</a>
       </div>
 
       <!-- <h3 class="sr-only">Event images</h3>
       <ul class="flex flex-wrap justify-center gap-6 mb-10">
         <li>
           <figure>
-            <figcaption>Join in the autumn fun! To be a vendor, voluneer, or donate, contact us yorkshirewoodsneighborhood@gmail.com</figcaption>
-            <img class="object-contain max-h-screen" src="~/assets/images/2024HarvestFestivalPoster.png"
-            alt="A brightly colored flyer with cartoon hay, pumpkins, corn, and jack-o-lanterns. Flyer advertises the harvest festival being held on October 26 from 12pm - 4pm at 9745 Kensington Ave." />
+            <figcaption>Yorkshire Woods' young residents wait for the fun to begin.</figcaption>
+            <img class="object-contain max-h-screen" src="~/assets/images/fallHarvest2026/.jpg"
+            alt="Two children sit patiently at a picnic bench in a park, surrounded by other park benches adorned with small pumpkins." />
           </figure>
-        </li>       
+        </li> 
       </ul> -->
 
       <EventsList title="Upcoming Events" eventTimeframe="future" theme="green" />
