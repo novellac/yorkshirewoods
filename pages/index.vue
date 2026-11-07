@@ -4,15 +4,20 @@
 
     <section class="flex flex-col p-6">
       <!-- <h2 id="featured-event">Featured Event</h2> -->
-      <h2 id="featured-event">Harvest Fall Festival 2026<br>YOU made it happen!</h2>
+      <h2 id="featured-event">Harvest Fall Festival 2026...YOU made it happen!</h2>
       <div class="flex flex-col gap-4 mb-8 md:mb-20">
         <img class="object-contain max-h-screen" src="~/assets/images/signal-2026-11-05-10-15-06-647.jpg"
-            alt="AI-generated flyer for the YWCO 2026 Harvest Fall Event October 24 2026 12PM to 4PM" />
+          alt="AI-generated flyer for the YWCO 2026 Harvest Fall Event October 24 2026 12PM to 4PM" />
         <p>
-          A huge THANK YOU to...YOU! Thanks, everyone for coming out and celebrating YOUR neighborhood! The 2026 Harvest Fall Event was a great success!
-          We enjoyed a day of fun, food, and fellowship! Residents from 2 to 102 enjoyed a DJ, treats, and information from local
-          elected officials, organizations, and businesses. A big thanks to our partners: Sound Body Sound Mind, Buter Funeral Home, Inner City Property Management LLC, IFIX Detroit, Happy Pizza, Grace Supermarket, I Live Outreach, and Jungle Juice Bar.
-          A big thanks also to our Yorkshire Woods community block clubs: Wayburn Block Club, Rossiter Block Club, Nottingham BLock Club, and Bishop Block Club.
+          A huge THANK YOU to...YOU! Thanks, everyone for coming out and celebrating YOUR neighborhood! The 2026 Harvest
+          Fall Event was a great success!
+          We enjoyed a day of fun, food, and fellowship! Residents from 2 to 102 enjoyed a DJ, treats, and information
+          from local
+          elected officials, organizations, and businesses. A big thanks to our partners: Sound Body Sound Mind, Buter
+          Funeral Home, Inner City Property Management LLC, IFIX Detroit, Happy Pizza, Grace Supermarket, I Live
+          Outreach, and Jungle Juice Bar.
+          A big thanks also to our Yorkshire Woods community block clubs: Wayburn Block Club, Rossiter Block Club,
+          Nottingham BLock Club, and Bishop Block Club.
         </p>
         <a class="text-lg font-bold" href="/events/event-2026-10-fall-harvest-fest-2026">See all the pictures here!</a>
       </div>
