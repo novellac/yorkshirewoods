@@ -19,7 +19,9 @@
           A big thanks also to our Yorkshire Woods community block clubs: Wayburn Block Club, Rossiter Block Club,
           Nottingham BLock Club, and Bishop Block Club.
         </p>
-        <a class="text-lg font-bold" href="/events/event-2026-10-fall-harvest-fest-2026">See all the pictures here!</a>
+        <a class="text-lg font-bold" href="https://yorkshirewoods.org/events/event-2026-10-fall-harvest-festival-2026">
+          See all the pictures here!
+        </a>
       </div>
 
       <!-- <h3 class="sr-only">Event images</h3>
